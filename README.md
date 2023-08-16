@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Portfolio
 ### Tableau
 ### Excel Dashboards
 ### Python Programming
