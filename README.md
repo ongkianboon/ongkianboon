@@ -7,11 +7,13 @@
 [The ten best-selling video games]()
 <br>
 
+## Tableau Public
+### Optimizing roster for radiology students on clinical placement to collect competencies
+[Interactive Tableau Dashboard]()
+<br>
+
 ## Healthcare Projects
 ### Interactive Tableau Dashboards 
 [Tableau Public]()
 ### Python Synthetic Epic Data Generator
 [Repo]()
-
-
-
